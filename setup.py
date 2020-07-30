@@ -21,7 +21,7 @@ setup(name='shadow',
         'gevent==1.0dev',
         'ginkgo==0.5.0dev',
         'flask==0.9',
-        'requests==0.13.6',
+        'requests==2.20.0',
         'gevent-socketio==0.3.5-rc2',
       ]
 )
