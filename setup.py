@@ -20,7 +20,7 @@ setup(name='shadow',
         'Cython==0.17.1',
         'gevent==1.0dev',
         'ginkgo==0.5.0dev',
-        'flask==0.9',
+        'flask==1.0',
         'requests==0.13.6',
         'gevent-socketio==0.3.5-rc2',
       ]
